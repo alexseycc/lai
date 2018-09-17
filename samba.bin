@@ -1,0 +1,1 @@
+apt-get install libcups2 samba samba-common samba-client -y
